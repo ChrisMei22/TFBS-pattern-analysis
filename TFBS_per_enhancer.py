@@ -1,4 +1,4 @@
-# This script is to count the number of TFBS per CRMs
+# This script is to count the number of TFBS per known enhancers
 import matplotlib.pyplot as plt
 import numpy as np
 
